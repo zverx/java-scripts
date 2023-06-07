@@ -1,0 +1,14 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+  },
+  "editor.formatOnSave": true,
+  "task.autoDetect": "off",
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.project.explorer.showNonJavaResources": false,
+  "redhat.telemetry.enabled": false,
+  "java.dependency.packagePresentation": "hierarchical"
+}
